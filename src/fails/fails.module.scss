@@ -1,0 +1,17 @@
+.fails {
+  width: 100%;
+  padding: 20px;
+  background: #eee;
+}
+
+.fails__letters {
+  display: flex;
+  align-items: center;
+}
+
+.fails__letter {
+  margin: 10px;
+  font-size: 32px;
+  text-transform: uppercase;
+  color: rgb(179, 63, 63);
+}

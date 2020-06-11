@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# production
+/build
+/dist
+/out
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# cache
+.next
+.cache

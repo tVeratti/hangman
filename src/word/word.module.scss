@@ -1,0 +1,14 @@
+.word {
+  display: flex;
+  padding: 40px;
+}
+
+.word__letter {
+  margin-right: 10px;
+  font-size: 52px;
+  text-transform: uppercase;
+
+  &:last-child {
+    margin-right: 0;
+  }
+}
